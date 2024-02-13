@@ -1,6 +1,6 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,c
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,c
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,c,powershell
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,c,powershell
 
 ### C ###
 # Prerequisites
@@ -56,6 +56,12 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -75,9 +81,10 @@ dkms.conf
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,c
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,c,powershell
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+
 .vscode/*
 *[Tt]est*
 Template folder structure

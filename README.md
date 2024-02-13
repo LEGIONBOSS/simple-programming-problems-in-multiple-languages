@@ -11,3 +11,4 @@ The problems are described in the [PDF](Simple%20Programming%20Problems.pdf)
 | C | In progress |
 | C# | Not started |
 | Python | Not started |
+| Powershell | In progress |
