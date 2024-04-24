@@ -9,6 +9,6 @@ The problems are described in the [PDF](Simple%20Programming%20Problems.pdf)
 | Language | Progress |
 | :-: | --- |
 | C | In progress |
-| C# | Not started |
+| C# | In progress |
 | Python | Not started |
 | Powershell | In progress |
