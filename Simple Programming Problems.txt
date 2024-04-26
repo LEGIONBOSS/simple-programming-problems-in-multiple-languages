@@ -78,7 +78,7 @@
         Implement a data structure for graphs that allows modification (insertion, deletion). It should be possible to store values at edges and nodes. It might be easiest to use a dictionary of (node, edgelist) to do this.
     3.4 Graph DOT
         Write a function that generates a DOT representation of a graph.
-    3.5. Text graph
+    3.5 Text graph
         Write a program that automatically generates essays for you.
           1. Using a sample text, create a directed (multi-)graph where the words of a text are nodes and there is a directed edge between u and v if u is followed by v in your sample text. Multiple occurrences lead to multiple edges.
           2. Do a random walk on this graph: Starting from an arbitrary node choose a random successor. If no successor exists, choose another random node.
