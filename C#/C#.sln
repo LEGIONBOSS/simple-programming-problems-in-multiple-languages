@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.6 Sum or product of 1 to 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.7 Multiplication table", "1.7 Multiplication table\1.7 Multiplication table.csproj", "{23F0F08D-71A3-4F07-800E-1BADEF167C5D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.8 Primes", "1.8 Primes\1.8 Primes.csproj", "{43EFA522-3D71-4245-B0D6-4E2B4D990D35}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{23F0F08D-71A3-4F07-800E-1BADEF167C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F0F08D-71A3-4F07-800E-1BADEF167C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F0F08D-71A3-4F07-800E-1BADEF167C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EFA522-3D71-4245-B0D6-4E2B4D990D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EFA522-3D71-4245-B0D6-4E2B4D990D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EFA522-3D71-4245-B0D6-4E2B4D990D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EFA522-3D71-4245-B0D6-4E2B4D990D35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +71,7 @@ Global
 		{C8D7D279-0518-4D1E-89A7-140AC40C5F4D} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
 		{536AF679-A665-47FF-BAD3-D84F6461489A} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
 		{23F0F08D-71A3-4F07-800E-1BADEF167C5D} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
+		{43EFA522-3D71-4245-B0D6-4E2B4D990D35} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {104BC7C3-1FDA-4793-8649-FD2AAA477AE3}
