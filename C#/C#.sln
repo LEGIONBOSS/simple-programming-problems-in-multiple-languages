@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.7 Multiplication table", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.8 Primes", "1.8 Primes\1.8 Primes.csproj", "{43EFA522-3D71-4245-B0D6-4E2B4D990D35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.9 Guessing game", "1.9 Guessing game\1.9 Guessing game.csproj", "{6223BEEC-2ECD-4418-BCD6-125DF14D1DE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.9 Guessing game", "1.9 Guessing game\1.9 Guessing game.csproj", "{6223BEEC-2ECD-4418-BCD6-125DF14D1DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.10 Leap years", "1.10 Leap years\1.10 Leap years.csproj", "{A48AF264-EC76-4735-AD6D-B070D3531225}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +67,10 @@ Global
 		{6223BEEC-2ECD-4418-BCD6-125DF14D1DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6223BEEC-2ECD-4418-BCD6-125DF14D1DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6223BEEC-2ECD-4418-BCD6-125DF14D1DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48AF264-EC76-4735-AD6D-B070D3531225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48AF264-EC76-4735-AD6D-B070D3531225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48AF264-EC76-4735-AD6D-B070D3531225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48AF264-EC76-4735-AD6D-B070D3531225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{23F0F08D-71A3-4F07-800E-1BADEF167C5D} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
 		{43EFA522-3D71-4245-B0D6-4E2B4D990D35} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
 		{6223BEEC-2ECD-4418-BCD6-125DF14D1DE8} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
+		{A48AF264-EC76-4735-AD6D-B070D3531225} = {C568B7AF-BC40-4371-86F2-44F5F882D82E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {104BC7C3-1FDA-4793-8649-FD2AAA477AE3}
